@@ -18,7 +18,7 @@
 
 
 * eclipse。。。请自行copy class。
-
+[![](https://jitpack.io/v/shuhaoSCode/AndroidUIImageView.svg)](https://jitpack.io/#shuhaoSCode/AndroidUIImageView)
 ## 如何使用？
 	<com.shuhao.uiimageview.UIImageView
         android:layout_width="wrap_content"
