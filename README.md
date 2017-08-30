@@ -1,8 +1,8 @@
-# AndroidUIImageView[![](https://jitpack.io/v/shuhaoSCode/AndroidUIImageView.svg)](https://jitpack.io/#shuhaoSCode/AndroidUIImageView)
+# AndroidUIImageView
 
 重写ImageView，防止内存溢出（oom），图片不压缩。Android新手看这里~~
 
-## 如何导入？
+## 如何导入？  [![嘿嘿](https://jitpack.io/v/shuhaoSCode/AndroidUIImageView.svg)](https://jitpack.io/#shuhaoSCode/AndroidUIImageView)
 
 * Android Studio
 
