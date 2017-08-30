@@ -1,4 +1,5 @@
-# AndroidUIImageView
+# AndroidUIImageView[![](https://jitpack.io/v/shuhaoSCode/AndroidUIImageView.svg)](https://jitpack.io/#shuhaoSCode/AndroidUIImageView)
+
 重写ImageView，防止内存溢出（oom），图片不压缩。Android新手看这里~~
 
 ## 如何导入？
@@ -18,7 +19,6 @@
 
 
 * eclipse。。。请自行copy class。
-[![](https://jitpack.io/v/shuhaoSCode/AndroidUIImageView.svg)](https://jitpack.io/#shuhaoSCode/AndroidUIImageView)
 ## 如何使用？
 	<com.shuhao.uiimageview.UIImageView
         android:layout_width="wrap_content"
