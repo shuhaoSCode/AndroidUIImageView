@@ -14,7 +14,7 @@
 		}
 		  
 		dependencies {
-	        compile 'com.github.shuhaoSCode:AndroidUIImageView:1.0.0'
+	        compile 'com.github.shuhaoSCode:AndroidUIImageView:v1.0.0'
 		}
 
 
